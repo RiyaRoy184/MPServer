@@ -1,0 +1,60 @@
+{
+  "uploadVideos": [
+    {
+      "id": "d15a",
+      "caption": "js",
+      "imageUrl": "https://images.javatpoint.com/images/javascript/javascript_logo.png",
+      "youTubeLink": " https://www.youtube.com/embed/8YJicgj8n9E "
+    },
+    {
+      "id": "529a",
+      "caption": "css",
+      "imageUrl": "https://media.geeksforgeeks.org/wp-content/uploads/20240701150349/CSS-Tutorial-copy.webp",
+      "youTubeLink": " https://www.youtube.com/embed/8YJicgj8n9E "
+    },
+    {
+      "id": "ce65",
+      "caption": "leo",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2023/10/06/600x338/F7uxdDfaQAAFgLy_1696582469444_1696582481195.jpg",
+      "youTubeLink": " https://www.youtube.com/embed/8YJicgj8n9E "
+    }
+  ],
+  "categories": [
+    {
+      "id": "20dd",
+      "categoryName": "trailer",
+      "allVideos": []
+    },
+    {
+      "id": "cca3",
+      "categoryName": "tutorial",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "7643",
+      "caption": "leo",
+      "youTubeLink": "https://www.youtube.com/embed/2Lj-XFTgzI4 ",
+      "timeStamp": "11/4/2024, 8:56:00 PM GMT+5:30"
+    },
+    {
+      "id": "7373",
+      "caption": "css",
+      "youTubeLink": " https://www.youtube.com/embed/ESnrn1kAD4E ",
+      "timeStamp": "11/5/2024, 9:07:11 AM GMT+5:30"
+    },
+    {
+      "id": "0c0b",
+      "caption": "css",
+      "youTubeLink": " https://www.youtube.com/embed/ESnrn1kAD4E ",
+      "timeStamp": "11/11/2024, 9:34:48 AM GMT+5:30"
+    },
+    {
+      "id": "af29",
+      "caption": "css",
+      "youTubeLink": " https://www.youtube.com/embed/ESnrn1kAD4E ",
+      "timeStamp": "11/11/2024, 9:34:53 AM GMT+5:30"
+    }
+  ]
+}
